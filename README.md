@@ -28,3 +28,12 @@ Here's an example of how to use the script to terminate a process named "uvicorn
 
 ```bash
 ./kill_process.sh uvicorn
+
+
+### Donations
+
+If you want to show your appreciation, you can donate via [Buy Me a Coffee](https://www.buymeacoffee.com/lalatendu.swain)
+
+## Disclaimer
+
+This script is provided as-is and may require modifications or updates based on your specific environment and requirements. Use it at your own risk. The authors of the script are not liable for any damages or issues caused by its usage.
