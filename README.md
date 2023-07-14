@@ -28,6 +28,9 @@ Here's an example of how to use the script to terminate a process named "uvicorn
 
 ```bash
 ./kill_process.sh uvicorn
+Feel free to modify the script and add more templates as needed.
+
+**Note:** Make sure to have the necessary permissions and dependencies set up before running this script.
 
 
 ### Donations
