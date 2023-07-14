@@ -11,7 +11,7 @@ This script allows you to find and terminate a process based on its name. It is 
 1. Download the script file `kill_process.sh`.
 2. Open a terminal and navigate to the script's directory.
 3. Make the script executable by running the command: `chmod +x kill_process.sh`.
-4. Run the script by executing: `./kill_process.sh`.
+4. Run the script by executing: `./kill_process.sh <process_name>`.
 
 ## How it works
 
@@ -28,12 +28,13 @@ Here's an example of how to use the script to terminate a process named "uvicorn
 
 ```bash
 ./kill_process.sh uvicorn
-Feel free to modify the script and add more templates as needed.
+```
+
+Feel free to modify the script and add more functionality as needed.
 
 **Note:** Make sure to have the necessary permissions and dependencies set up before running this script.
 
-
-### Donations
+## Donations
 
 If you want to show your appreciation, you can donate via [Buy Me a Coffee](https://www.buymeacoffee.com/lalatendu.swain)
 
